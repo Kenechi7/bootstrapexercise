@@ -1,0 +1,25 @@
+/*Blue background for my nav tabs.*/
+ul {
+	margin: 0;
+	background-color: blue;
+}
+
+/*Giants Colors!*/
+.btn-primary {
+	background-color: orange;
+	border-color: black;
+	color: black;
+}
+
+/*Warriors Colors!*/
+.btn-default {
+	background-color: blue;
+	border-color: gold;
+	color: white;
+}
+
+/*My images are a nice size.*/
+.img {
+	width: 250px;
+	height: 250px;
+}
